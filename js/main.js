@@ -5,7 +5,6 @@ import { deleteTask } from "./deleteTask";
 import { checked } from "./checked";
 import { load } from "./load";
 import { changeIconOptions, filterStateTasks, hideSelect } from "./option";
-import { closePopup } from "./closePopup";
 import { addTask } from "./addTask";
 
 addTask()
